@@ -1,2 +1,9 @@
 # Validator
-Sublist3r domain validator
+Sublist3r domain validator:
+
+
+
+
+
+
+
