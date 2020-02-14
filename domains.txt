@@ -1,1 +1,7 @@
-Please replace  this text with your sublist3r domain output.
+Please replace this text with your sublist3r domain output.
+https://x.x.com
+https://1.x.com
+https://2.x.com
+https://3.x.com
+https://4.x.com
+etc
